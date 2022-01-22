@@ -1381,7 +1381,7 @@ lint = ["pylint"]
 [metadata]
 lock-version = "1.1"
 python-versions = "^3.9"
-content-hash = "cfb35bd7667ac4f9b9f04eff22181cf4075dcbe1e1290857084da28e59683014"
+content-hash = "885c21733e2bc5241a299b6409dfc46872ca036f437048bc9daff197b7a4fd83"
 
 [metadata.files]
 argcomplete = [
